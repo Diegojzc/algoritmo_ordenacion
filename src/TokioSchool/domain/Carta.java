@@ -1,6 +1,6 @@
 package TokioSchool.domain;
 
-import java.util.Objects;
+
 
 public final class Carta {
 
